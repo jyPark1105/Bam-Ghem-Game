@@ -8,11 +8,11 @@
 
 ---
 
-### Assets/Scripts
+### Assets/_Scripts
 
 
 ```
-Assets/Scripts
+Assets/_Scripts
 │
 ├─ Firebase
 │  └─ 초기화, 인증 권한 허용, 회원가입 및 로그인 로직
