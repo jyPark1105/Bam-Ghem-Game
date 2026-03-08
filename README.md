@@ -1,3 +1,5 @@
+**게임 구현 정리** : https://www.notion.so/Bam-Ghem-2f3c22bfb710802b8252ec4f9c342e7a
+
 ## 📂 주요 코드 설명
 
 ### Script Hierarchy
